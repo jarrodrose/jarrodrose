@@ -1,6 +1,6 @@
 # Hello! 👋  
 I'm Jarrod, and I'm an SysAdmin, Platform Administrator, People Wrangler, and above all else, an enthusiastic maker/creator of thingsTM.  
-Currently working in the Performance Arts industry administrating and maintaining Event Management Software, Event Ticketing Systems, Point-of-Sale equipment, Web Hosts, and a variety of other systems.
+Currently working in the Performance Arts industry 'administratoring' and maintaining Event Management Software, Event Ticketing Systems, Point-of-Sale equipment, Web Hosts, and a variety of other systems.
 
 I don't have many public repositories, but the ones I do will probably be full of weirdness, badly written code, half written code and other such IT sins.  
 They are all on the pile of "*I'll get back to this and make it better... One day...*".
