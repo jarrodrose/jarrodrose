@@ -6,6 +6,7 @@ I don't have many public repositories, but the ones I do will probably be full o
 They are all on the pile of "*I'll get back to this and make it better... One day...*".
 
 ![Map of Bunjil Carpark](kindergarden-parking-v1.0.png "Test Title")
+[Test Page](test.md)
 
 # Ways to Contact Me
 * [Personal Website][domain-home]
