@@ -5,6 +5,8 @@ Currently working in the Performance Arts industry 'administratoring' and mainta
 I don't have many public repositories, but the ones I do will probably be full of weirdness, badly written code, half written code and other such IT sins.  
 They are all on the pile of "*I'll get back to this and make it better... One day...*".
 
+![Map of Bunjil Carpark](kindergarden-parking-v1.0.png "Test Title")
+
 # Ways to Contact Me
 * [Personal Website][domain-home]
 * [Contact Details][domain-contact]
